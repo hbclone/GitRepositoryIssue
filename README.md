@@ -10,4 +10,4 @@
 
 ### 2.`npm install`
 
-### 3.`npm start`x
+### 3.`npm start`
